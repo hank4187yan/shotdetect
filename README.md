@@ -1,3 +1,5 @@
+[Updated to work with ffmpeg 4.2.1]
+
 ![Build status](https://api.travis-ci.org/johmathe/Shotdetect.svg?branch=master)
 
 Shotdetect is a free software (LGPL) which detects shots and scenes from a video.
